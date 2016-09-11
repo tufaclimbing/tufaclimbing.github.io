@@ -1,0 +1,12 @@
+(DOCTYPE! html)
+<html>
+    <head>
+        <title>Relative Linked Page</title>
+    </head>
+    <body>
+        <h1>Relative Linked Page</h1>
+        <h2>Semantics assignment</h2>
+        <p>This is the relative linked page for my 2.2 assignment</p>
+    </body>
+
+</html>
