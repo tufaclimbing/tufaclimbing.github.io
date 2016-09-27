@@ -1,0 +1,1 @@
+This was a slightly confusing assignment in part due to p5 not being very flexible with syntax.  Code structure and hierarchy is still a little bit difficult for me.  Anyhow I mostly got my sketch to do what I wanted to; definitely going to need some office hour time this week.

@@ -1,0 +1,1 @@
+I enjoyed working on this project as it gave me a good amount of coding mileage and gave me a better understanding of website organization.  Making more complex forms seems challenging to me.  Other than that I'm excited to start working CSS into our HTML pages.  I think I got the meta and CSS tags right but I'm still confused as to how we'll use them.
