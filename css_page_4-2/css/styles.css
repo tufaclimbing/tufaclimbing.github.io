@@ -5,6 +5,7 @@ body {
     font-size:12px
     color: #ffffff;
     padding: 20px;
+    border: 10px;
 }
 
 .header {
@@ -36,9 +37,12 @@ h2 {
     font-weight: lighter;
     text-shadow: -2px -1px rgb(247, 245, 9)
 }
-
+@@font-face {
+    font-family: 'lalezar';
+    src:url('fonts/lalezar.ttf');
+}
 h3 {
-    font-family: "Lalezar";
+    font-family: 'lalezar';
     color: green
 }
 
